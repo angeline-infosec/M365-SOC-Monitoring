@@ -1,6 +1,6 @@
 # M365 Monitoring Basics - TryHackMe
 
-**Room**: ![M365 Monitoring Basics](https://tryhackme.com/room/m365monitoringbasics) 
+**Room**: [M365 Monitoring Basics](https://tryhackme.com/room/m365monitoringbasics)
 
 **Category**: SOC Monitoring / Cloud Identity
 
